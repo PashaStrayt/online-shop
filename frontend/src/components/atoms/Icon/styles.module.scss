@@ -1,0 +1,16 @@
+.icon {
+  width: auto;
+
+  &--sm {
+    height: 14px;
+  }
+  &--md {
+    height: 18px;
+  }
+  &--lg {
+    height: 20px;
+  }
+  &--xl {
+    height: 25px;
+  }
+}
